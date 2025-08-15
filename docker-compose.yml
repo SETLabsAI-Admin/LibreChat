@@ -9,7 +9,7 @@ services:
     depends_on:
       - mongodb
       - rag_api
-    image: ghcr.io/danny-avila/librechat-dev:latest
+    build: . # This is the corrected line that builds from your local files
     restart: always
     user: "${UID}:${GID}"
     extra_hosts:

@@ -9,7 +9,6 @@
   ],
   
   "scripts": {
-    "clean": "rm -rf dist",
     "update": "node config/update.js",
     "add-balance": "node config/add-balance.js",
     "set-balance": "node config/set-balance.js",

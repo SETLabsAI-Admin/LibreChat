@@ -7,7 +7,9 @@
     "client",
     "packages/*"
   ],
+  
   "scripts": {
+    "heroku-postbuild": "npm run frontend",
     "update": "node config/update.js",
     "add-balance": "node config/add-balance.js",
     "set-balance": "node config/set-balance.js",

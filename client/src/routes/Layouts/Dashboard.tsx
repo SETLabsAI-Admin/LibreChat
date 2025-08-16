@@ -5,6 +5,7 @@ import { useQueryClient } from '@tanstack/react-query';
 import { useAuthContext, usePreviousLocation } from '~/hooks';
 import { DashboardContext } from '~/Providers';
 import store from '~/store';
+import TopBar from "./components/TopBar";
 
 export default function DashboardRoute() {
   const queryClient = useQueryClient();
@@ -29,6 +30,7 @@ export default function DashboardRoute() {
   return (
     <DashboardContext.Provider value={{ prevLocationPath }}>
       <div className="h-screen w-full">
+        <TopBar />
         <Outlet />
       </div>
     </DashboardContext.Provider>

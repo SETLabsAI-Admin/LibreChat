@@ -1518,7 +1518,7 @@ export enum Constants {
 
 export enum LocalStorageKeys {
   /** Key for the admin defined App Title */
-  APP_TITLE = 'appTitle',
+  APP_TITLE = 'AskHenry',
   /** Key for the last conversation setup. */
   LAST_CONVO_SETUP = 'lastConversationSetup',
   /** Key for the last selected model. */

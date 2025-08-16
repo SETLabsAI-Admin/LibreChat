@@ -10,8 +10,6 @@ import { ScreenshotProvider, useApiErrorBoundary } from './hooks';
 import { getThemeFromEnv } from './utils/getThemeFromEnv';
 import { LiveAnnouncer } from '~/a11y';
 import { router } from './routes';
-import {TopBar} from "./components/TopBar";
-
 
 const App = () => {
   const { setError } = useApiErrorBoundary();

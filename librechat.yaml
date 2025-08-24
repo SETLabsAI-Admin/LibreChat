@@ -32,41 +32,25 @@ interface:
     modalAcceptance: true
     modalTitle: "Terms of Service for LibreChat"
     modalContent: |
-      # Terms and Conditions for LibreChat
+     ## Terms and Conditions for Ask Henry
 
-      *Effective Date: February 18, 2024*
+     **1. Service Description:** Ask Henry is an application designed to facilitate the usability of generative AI capabilities in Google Sheets. It helps individuals and teams use AI for repetitive tasks. Access requires a Google account and a data source. Users are responsible for internet connectivity, Google account configuration, managing data, and associated costs.
 
-      Welcome to LibreChat, the informational website for the open-source AI chat platform, available at https://librechat.ai. These Terms of Service ("Terms") govern your use of our website and the services we offer. By accessing or using the Website, you agree to be bound by these Terms and our Privacy Policy, accessible at https://librechat.ai//privacy.
+     **2. Terms Modifications:** SetLabs AI (the provider) reserves the right to amend these Terms and the Service at any time, with notice via email or website. Continued use of the Service after modifications constitutes agreement to the amended Terms.
 
-      ## 1. Ownership
+     **3. Access and Licensing:** Service access is exclusively for the Customer and their granted end-users. Upon activation, the Customer configures data sources. SetLabs AI grants a conditional, revocable, non-transferable, and non-exclusive license to use the Service for internal business operations, contingent on adherence to these Terms and fee fulfillment.
 
-      Upon purchasing a package from LibreChat, you are granted the right to download and use the code for accessing an admin panel for LibreChat. While you own the downloaded code, you are expressly prohibited from reselling, redistributing, or otherwise transferring the code to third parties without explicit permission from LibreChat.
+     **4. Use Restrictions:** Prohibited actions include unauthorized copying, modification, reverse engineering, resale, or creation of derivative works. Users must not remove proprietary notices, interfere with operation, engage in spam or unlawful activities, or infringe copyright. Illegal use may result in suspension or termination.
 
-      ## 2. User Data
+     **5. Intellectual Property and Confidential Information:** SetLabs AI (or its licensors) retains all rights, titles, and interests in the Service and related intellectual property. These Terms do not transfer any rights to the user, except for the limited license. Users agree to maintain confidentiality of proprietary information.
 
-      We collect personal data, such as your name, email address, and payment information, as described in our Privacy Policy. This information is collected to provide and improve our services, process transactions, and communicate with you.
+     **6. Data Privacy and Security:** SetLabs AI is committed to protecting data privacy and security. Users retain all rights to their data, granting SetLabs AI a limited license to use data for providing the Service. Personal data use is governed by the Privacy Policy and applicable laws.
 
-      ## 3. Non-Personal Data Collection
+     **7. Termination and Suspension:** SetLabs AI reserves the right to suspend or terminate access for any breach of these Terms, including for security or legal compliance. Users agree to pay all fees, with non-refundable subscriptions except as required by law.
 
-      The Website uses cookies to enhance user experience, analyze site usage, and facilitate certain functionalities. By using the Website, you consent to the use of cookies in accordance with our Privacy Policy.
+     **8. Agreement:** These Terms form a binding legal contract between SetLabs AI.com and the user ("You" or "Customer") using Ask Henry ("Service"). By accessing or using the Service, you acknowledge and consent to be bound by these Terms. If you do not agree, you are forbidden from using the Service.
 
-      ## 4. Use of the Website
-
-      You agree to use the Website only for lawful purposes and in a manner that does not infringe the rights of, restrict, or inhibit anyone else's use and enjoyment of the Website. Prohibited behavior includes harassing or causing distress or inconvenience to any person, transmitting obscene or offensive content, or disrupting the normal flow of dialogue within the Website.
-
-      ## 5. Governing Law
-
-      These Terms shall be governed by and construed in accordance with the laws of the United States, without giving effect to any principles of conflicts of law.
-
-      ## 6. Changes to the Terms
-
-      We reserve the right to modify these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after such changes have been notified will constitute your consent to such changes.
-
-      ## 7. Contact Information
-
-      If you have any questions about these Terms, please contact us at contact@librechat.ai.
-
-      By using the Website, you acknowledge that you have read these Terms of Service and agree to be bound by them.
+     **9. Data Integrity:** Due to the probabilistic nature of machine learning, outputs may not always be accurate or complete. Users should not rely on Outputs as a sole source of truth or factual information, or as a substitute for professional advice. Users must evaluate Outputs for accuracy.
 
   endpointsMenu: true
   modelSelect: true

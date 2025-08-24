@@ -30,11 +30,11 @@ interface:
     externalUrl: 'https://librechat.ai/tos'
     openNewTab: true
     modalAcceptance: true
-    modalTitle: "Terms of Service for LibreChat"
+    modalTitle: "Terms of Service for AskHenry"
     modalContent: |
-     ## Terms and Conditions for Ask Henry
+     ## Terms and Conditions for AskHenry
 
-     **1. Service Description:** Ask Henry is an application designed to facilitate the usability of generative AI capabilities in Google Sheets. It helps individuals and teams use AI for repetitive tasks. Access requires a Google account and a data source. Users are responsible for internet connectivity, Google account configuration, managing data, and associated costs.
+     **1. Service Description:** AskHenry is an application designed to provide modern Generative AI chat assistance for employees of Henry County, Georgia. It helps individuals and teams use AI for repetitive tasks. Access requires a Google account and a data source. Users are responsible for internet connectivity, Google account configuration, managing data, and associated costs.
 
      **2. Terms Modifications:** SetLabs AI (the provider) reserves the right to amend these Terms and the Service at any time, with notice via email or website. Continued use of the Service after modifications constitutes agreement to the amended Terms.
 

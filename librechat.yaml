@@ -72,7 +72,7 @@ interface:
 #    size: "normal"      # Options: "normal", "compact", "flexible", or "invisible"
 
 modelSpecs:
-  enforce: true
+  enforce: false
   prioritize: true
   list:
     - name: "front-desk"
